@@ -1,5 +1,3 @@
-# Currency-Converter
-# Fixed exchange rates (example)
 exchange_rates = {
     'USD': 1.0,
     'EUR': 0.85,
